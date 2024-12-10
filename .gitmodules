@@ -4,3 +4,6 @@
 [submodule "ISIM"]
 	path = ISIM
 	url = https://github.com/resilmesh2/ISIM.git
+[submodule "NDR"]
+	path = NDR
+	url = https://github.com/resilmesh2/NDR.git
