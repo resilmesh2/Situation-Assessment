@@ -1,0 +1,3 @@
+[submodule "CASM"]
+	path = CASM
+	url = https://github.com/resilmesh2/CASM.git
