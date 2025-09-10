@@ -10,3 +10,6 @@
 [submodule "CASM"]
 	path = CASM
 	url = https://github.com/resilmesh2/CASM.git
+[submodule "CSA"]
+	path = CSA
+	url = https://github.com/resilmesh2/CSA.git
