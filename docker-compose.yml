@@ -1,0 +1,6 @@
+include:
+  - ./CASM/compose.yml
+  - ./CSA/compose.yml
+  - ./ISIM/compose.yaml
+#  - ./NDR/compose.yml  # TODO: empty repo?
+  - ./NSE/docker-compose.yml
