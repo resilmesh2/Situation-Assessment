@@ -16,3 +16,6 @@
 [submodule "WP6_AIBAST"]
 	path = WP6_AIBAST
 	url = https://github.com/resilmesh2/WP6_AIBAST.git
+[submodule "SACD"]
+	path = SACD
+	url = https://github.com/resilmesh2/SACD.git
