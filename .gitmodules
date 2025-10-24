@@ -13,3 +13,6 @@
 [submodule "CSA"]
 	path = CSA
 	url = https://github.com/resilmesh2/CSA.git
+[submodule "WP6_AIBAST"]
+	path = WP6_AIBAST
+	url = https://github.com/resilmesh2/WP6_AIBAST.git
