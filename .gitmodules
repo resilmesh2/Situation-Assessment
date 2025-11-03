@@ -16,3 +16,7 @@
 [submodule "SACD"]
 	path = SACD
 	url = https://github.com/resilmesh2/SACD.git
+[submodule "Network-Detection-Response"]
+	path = Network-Detection-Response
+	url = https://github.com/resilmesh2/Network-Detection-Response.git
+	branch = main
