@@ -1,6 +1,3 @@
-[submodule "NDR"]
-	path = NDR
-	url = https://github.com/resilmesh2/NDR.git
 [submodule "NSE"]
 	path = NSE
 	url = https://github.com/resilmesh2/NSE.git
