@@ -1,9 +1,9 @@
 include:
-  - ./CASM/compose.yml
-  - ./CSA/compose.yml
   - ./ISIM/compose.yaml
-#  - ./Landing-Page/compose.yml # TODO add compose
-#  - ./Network-Detection-Response/docker-compose.yml  # TODO: empty repo?
+  - ./CSA/compose.yml
+  - ./CASM/compose.yml
+  - ./Landing-Page/compose.yml
+  - ./Network-Detection-Response/docker-compose.yml
   - ./NSE/docker-compose.yml
   - ./SACD/compose.yaml
 #  - ./WP6_AIBAST/docker-compose.yaml # Not needed for testing
