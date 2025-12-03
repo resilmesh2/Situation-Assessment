@@ -1,9 +1,9 @@
 include:
-  # - ./ISIM/compose.yaml
-  # - ./CSA/compose.yml
+  - ./ISIM/compose.yaml
+  - ./CSA/compose.yml
   - ./CASM/compose.yml
-  # - ./Landing-Page/compose.yaml
+  - ./Landing-Page/compose.yaml
   - ./Network-Detection-Response/docker-compose.yml
-  # - ./NSE/docker-compose.yml
-  # - ./SACD/compose.yaml
+  - ./NSE/docker-compose.yml
+  - ./SACD/compose.yaml
   # - ./WP6_AIBAST/docker-compose.yaml # Not needed for testing
